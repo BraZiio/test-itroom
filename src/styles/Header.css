@@ -1,0 +1,26 @@
+.container {
+    display: flex;
+    padding: 25px 0;
+    border-bottom: #BB5F4B solid 3px;
+}
+.container-logo {
+    width: 40%;
+    display: flex;
+    padding-left: 10%;
+}
+.container-nav {
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.nav-home {
+    color: #BB5F4B;
+    font-size: 25px;
+    text-decoration: none;
+}
+.nav-research {
+    color: #64342A;
+    font-size: 25px;
+    text-decoration: none;
+}
